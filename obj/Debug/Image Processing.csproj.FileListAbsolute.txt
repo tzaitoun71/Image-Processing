@@ -1,0 +1,19 @@
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\obj\Debug\Image Processing.csprojAssemblyReference.cache
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\tariq\OneDrive\Documents\T.Z\ComputerScienceShit\Assignment2\Image Processing\obj\Debug\Image_Processing.frmMain.resources
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image Processing.csproj.AssemblyReference.cache
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image_Processing.frmMain.resources
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\tariq\Downloads\Assignment2-20210927T225352Z-001\Assignment2\Image Processing\obj\Debug\Image Processing.pdb
